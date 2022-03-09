@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "id": 0,
+      "name": "Develope an app with VueJs",
+      "status": "to-do"
+    },
+    {
+      "id": 1,
+      "name": "Create a vue app",
+      "status": "in-progress"
+    },
+    {
+      "id": 2,
+      "name": "Create a json-server 123",
+      "status": "done"
+    }
+  ]
+}
